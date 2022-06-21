@@ -16,8 +16,3 @@ public class StringCalculator {
         return returnValue;
     }
 }
-//1. write tests for the new requirements
-//
-//2. implement the functionality
-//
-//3. run tests, debug/rewrite implementations until tests pass
